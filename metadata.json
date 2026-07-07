@@ -1,0 +1,6 @@
+{
+  "name": "AlphaMatrix AI",
+  "description": "Enterprise-grade multi-agent investment research and portfolio optimization platform powered by Gemini.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
